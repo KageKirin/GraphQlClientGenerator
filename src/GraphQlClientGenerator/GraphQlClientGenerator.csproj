@@ -6,7 +6,7 @@
     <Authors>Husqvik</Authors>
     <Company>Tibber</Company>
     <VersionPrefix>0.4.3</VersionPrefix>
-    <TargetFrameworks>netstandard1.3;net452</TargetFrameworks>
+    <TargetFrameworks>netcoreapp3.0</TargetFrameworks>
     <LangVersion>latest</LangVersion>
     <Copyright>Copyright 2017-2019</Copyright>
     <Title>GraphQL C# Client Generator</Title>
